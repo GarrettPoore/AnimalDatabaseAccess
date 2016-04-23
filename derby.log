@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Feb 14 23:39:32 EST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0152-e339-f371-00000eb42588 
+on database directory C:\Users\Dedly Spyder\Documents\University of Phoenix\POS421 - Java Programming II\Projects\AnimalDatabaseAccess\AnimalDB with class loader sun.misc.Launcher$AppClassLoader@45ee12a7 
+Loaded from file:/C:/Users/Dedly%20Spyder/Desktop/Sandbox/UoP%20Homework/db-derby-10.12.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=C:\Users\Dedly Spyder\Documents\University of Phoenix\POS421 - Java Programming II\Projects\AnimalDatabaseAccess
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Feb 14 23:39:51 EST 2016:
+Shutting down instance a816c00e-0152-e339-f371-00000eb42588 on database directory C:\Users\Dedly Spyder\Documents\University of Phoenix\POS421 - Java Programming II\Projects\AnimalDatabaseAccess\AnimalDB with class loader sun.misc.Launcher$AppClassLoader@45ee12a7 
